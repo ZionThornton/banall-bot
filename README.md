@@ -9,7 +9,7 @@ Idea - Create a bot that when /banall is typed, finds people online with a speci
 ## Navigation
 [Breakdown](#breakdown)
 
-[Progress Notes / Merge Notes](#progress-notes-/-merge-notes)
+[Progress Notes / Merge Notes](#progress-notes--merge-notes)
 
 ###### Breakdown
 
