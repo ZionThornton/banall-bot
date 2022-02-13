@@ -9,7 +9,7 @@ Idea - Create a bot that when /banall is typed, finds people online with a speci
 
 🟨 - *In Progress*
 
-✅ - **_Finished**_
+✅ - **_Finished_**
 
 1. Make a timer that can track multiple times (for 24 hours) 🛑
 2. Remove and add a role with a command 🟨
