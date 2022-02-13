@@ -45,4 +45,4 @@ async def status(ctx, member: Member):
     await ctx.send(str(member.status))
     
 
-client.run('OTQxODEyNTIxNjk2OTAzMTY5.YgbZQw.WPG700tFKyKZyugqlujUE3eCNCo')
+client.run('BanAllBot')
