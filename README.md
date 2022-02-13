@@ -17,5 +17,6 @@ Idea - Create a bot that when /banall is typed, finds people online with a speci
 4. **Combine into one command** 🛑
 
 ## Progress Notes + Commit Updates
-|Date|Description|ID|
+|Date|Description|Branch|ID|
 |-|-|-|
+|2.12.22|Commit v1 of banall bot|Development|7076218|
