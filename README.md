@@ -3,10 +3,12 @@ BanAll Discord Bot for MCCH!
 Started - 2/12/2022
 Idea - Create a bot that when /banall is typed, finds people online with a specific role, and removes it for 24 hours. (Removing them from a channel)
 
-##**Breakdown**
+## **Breakdown**
 
 🛑 - **Not Started**
+
 🟨 - *In Progress*
+
 ✅ - **_Finished**_
 
 1. Make a timer that can track multiple times (for 24 hours) 🛑
