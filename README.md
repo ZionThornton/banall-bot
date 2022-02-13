@@ -18,5 +18,5 @@ Idea - Create a bot that when /banall is typed, finds people online with a speci
 
 ## Progress Notes + Commit Updates
  |Date|Description|Branch|ID|
- |-|-|-|
+ |-|-|-|-|
  |2.12.22|Commit v1 of banall bot|Development|7076218|
